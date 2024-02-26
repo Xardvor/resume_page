@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-#baseURL = "https://example.com/"
+baseURL = "https://xardvor.github.io/"
 title = "Maksim Losev CV"
 
 [params]
