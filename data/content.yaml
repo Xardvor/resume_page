@@ -13,8 +13,8 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Sweden
 
-Profile: 'Game developer with solid all-round experience. Most knowledgable in gameplay systems, game economy systems and game AI. Have passion for developing peculiar and fun behaviours for in-game characters. Best player experience is one of the things I always after when implementing my tasks.
-  Vivid gamer, favourite genres are RPGs of all sorts, Factorio-esque games and survival.'
+Profile: 'Game developer with a solid all-round experience. Most knowledgable in gameplay systems, game economy systems and AI for games. I have passion for developing a detailed and fun mechanics in games. Best possible player experience is the thing I;m always after while implementing my tasks.
+  Passionate gamer, favourite genres are RPGs of all sorts, Factorio-esque games and survivals.'
 
 Experience:
   - Employer: King
@@ -24,20 +24,20 @@ Experience:
         Date: Apr 2023 - Present
         Details:
           - Leading a team of 4 senior developers.
-          - Owning middle layer systems for game economy.
-          - Providing support and mentoring for fellow developers for economy systems, tracking and general project knowledge.
-          - Consulting production and analytics for planning features, tests and roadmaps.
+          - Owning middle-layer systems for the game economy.
+          - Implementing new and refactoring legacy core systems for game economy.
+          - Providing support and mentoring for fellow developers on economy systems, tracking and general project knowledge.
+          - Consulting production and analytics for planning features, live tests and roadmaps.
         Badges: ['C++', 'Python', 'Java', 'Backend', 'Systems architecture', 'Game Engines', 'Mobile', 'Agile', 'AB-testing', 'gtest']
       - Title: Software Engineer
         Date: Jan 2021 - Apr 2023
         Details:
           - Leading a team of 4 senior developers.
-          - Owning middle layer systems for game economy.
-          - Implemented a holistic tracking solution for in-game economy.
+          - Implemented a holistic tracking solution for the in-game economy.
           - Occasionally working on various gameplay features.
           - Implementing tools in Python for artists and developers.
-          - Providing support and mentoring for fellow developers for economy systems, tracking and general project knowledge.
-          - Consulting production and analytics for planning features, tests and roadmaps.
+          - Providing support and mentoring for fellow developers on economy systems, tracking and general project knowledge.
+          - Consulting production and analytics for planning features, live tests and roadmaps.
         Badges: ['C++', 'Python', 'SQL', 'Systems architecture', 'Game Engines', 'Mobile', 'Agile', 'AB-testing', 'gtest']
   - Employer: tri-Ace Inc.
     Place: Tokyo, Japan
@@ -47,22 +47,22 @@ Experience:
         Details:
           - Gameplay generalist on Star Ocean The Divine Force project.
           - Game design tools development.
-          - Performance optimisations for consoles.
-        Badges: ['C++', 'Python', 'Game Engines', 'Asset Streaming', 'Open Worlds', 'Multi-platform']
+          - Performance optimisations for game consoles.
+        Badges: ['C++', 'Python', 'Game Engines', 'Asset Streaming', 'Open World', 'Multi-platform']
   - Employer: Wargaming
     Place: Minsk, Belarus
     Positions:
       - Title: Prototype Programmer
         Date: Dec 2018 - May 2019
         Details:
-          - Part of small rapid prototyping team.
-          - Developing multiplayer game prototype on Unreal Engine 4.
-          - Participating in game design for prototype.
+          - Part of a small rapid prototyping team.
+          - Developing a multiplayer game prototype using Unreal Engine 4.
+          - Participating in game design for the prototype.
         Badges: ['C++', 'Unreal Engine 4', 'Game Engines', 'Network Programming', 'Mobile']
       - Title: Programmer
         Date: May 2017 - Dec 2018
         Details:
-          - Gameplay generalist on World of Tanks Blitz project.
+          - Gameplay generalist on the World of Tanks Blitz project.
           - UI systems coding and improvements.
           - Supporting and improving legacy code.
         Badges: ['C++', 'Python', 'Game Engines', 'Network Programming', 'Mobile', 'Agile', 'gtest']
@@ -73,8 +73,8 @@ Experience:
         Date: Sep 2013 - Dec 2017
         Details:
           - Gameplay generalist on main company titles.
-          - Focus on in-game artificial inteligence.
-          - Leadin early development of a city-builder genre game.
+          - Focus on in-game artificial intelligence.
+          - Leading early development of a city-builder genre game.
           - Working on strategic AI for internal game prototypes.
         Badges: ['C++', 'C#', 'Game Engines', 'Social Games', 'Game AI', 'Mobile']
   - Employer: SoftDrom
@@ -85,7 +85,7 @@ Experience:
         Details:
           - Bada, Tizen developer.
           - iOS, Android developer.
-          - Worked on wide range of applications - entertaiment, taxi clients, education, banking.
+          - Worked on a wide range of applications - entertaiment, taxi clients, education, banking.
         Badges: ['Objective-C', 'Java', 'C++', 'iOS', 'Android', 'Tizen', 'Bada', 'Mobile']
   - Employer: Open Source
     Class: "experience__extra_padding"
@@ -93,7 +93,7 @@ Experience:
       - Title: Open Source Contributor, Open3D
         Date: Nov 2019 - Mar 2020
         Details:
-          - Writing a rendering layer for the library.
+          - Designing and coding the rendering layer for the library.
           - Providing general support for implementing tools and user interfaces.
         Badges: ['C++', 'Python', 'Google Filament', 'Rendering', 'Computer Vision']
 
@@ -137,7 +137,8 @@ Languages:
     Level: Native
 
 Interests:
-  - Gaming
+  - Video Games
+  - Tabletop Games
   - Fencing
   - TTRPG
   - AI
