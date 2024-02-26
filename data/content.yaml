@@ -1,11 +1,13 @@
 BasicInfo:
   FirstName: Maksim
   LastName: Losev
-  Photo: img/avatar.png
+  Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
+      Type: email
       Info: xardvor@gmail.com
     - Icon: fab fa-linkedin
+      Type: link
       Info: www.linkedin.com/in/maksimlosev
     - Icon: fas fa-map-marker-alt
       Info: Sweden
