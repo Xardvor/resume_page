@@ -8,22 +8,21 @@ disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 #baseURL = "https://example.com/"
 title = "Maksim Losev CV"
-#googleAnalytics = ""
 
 [params]
 enableMetaTags = false
-colorLight = "#fff"
-colorDark = "#666"
-colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
-colorSecondary = "#aaa"
-colorIconPrimary = "#fff"
-colorIconBackground = "#e3bfb8"
-colorRightColumnBackground = "#f5f5f5"
-colorRightColumnHeadingText = "#666"
-colorRightColumnBodyText = "#666"
-colorRightColumnIconPrimary = "#fff"
-colorRightColumnIconBackground = "#e3bfb8"
+colorLight = "#F5F5F5"
+colorDark = "#202020"
+colorPageBackground = "#d0d0d0"
+colorPrimary = "#303030"
+colorSecondary = "#b0b0b0"
+colorIconPrimary = "#202020"
+colorIconBackground = "#f4bf75"
+colorRightColumnBackground = "#e0e0e0"
+colorRightColumnHeadingText = "#151515"
+colorRightColumnBodyText = "#151515"
+colorRightColumnIconPrimary = "#ffffff"
+colorRightColumnIconBackground = "#f4bf75"
 pages = 2
-# Set this param to 'true' to swap the bar positions
+
 swapColumns = false
