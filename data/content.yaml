@@ -1,6 +1,7 @@
 BasicInfo:
   FirstName: Maksim
   LastName: Losev
+  Title: Senior Software Engineer
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
